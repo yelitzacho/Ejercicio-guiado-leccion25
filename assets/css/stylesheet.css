@@ -1,0 +1,11 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-cute-face-adventure-time-cartoons-wallpaper {
+    width: 1920px;
+    height: 1080px;
+    background-position: 0 0;
+}
